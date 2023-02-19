@@ -1,0 +1,30 @@
+.Container{
+    height: 90vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+    border:1px solid red
+    
+    
+}
+.Form
+{
+    border:1px solid black;
+    display: flex;
+    flex-direction:column;
+     align-items:center
+}
+label{
+    
+    padding: 2rem;
+    font-size: large;
+    font-weight: 600;
+}
+section{
+    margin: 0.5rem;
+}
+#email
+{
+    margin-right: 5vh;
+}
